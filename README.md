@@ -1,2 +1,2 @@
-# Haskell_Tutorial
-This repo contains some code and algorithms that will helps you to learn Haskell 
+# Haskell_Training
+This repo contains solved challenges from https://exercism.org/
