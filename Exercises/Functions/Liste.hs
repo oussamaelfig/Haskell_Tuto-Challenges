@@ -1,0 +1,2 @@
+-- 2.1.1
+-- Écrivez une fonction (repeter n x) qui construit une liste contenant n fois un élément x.
