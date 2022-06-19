@@ -21,6 +21,7 @@ somme :: Int -> Int
 somme 0 = 0
 somme a = a + somme (a-1)
 
+-- 4.1.3
 -- Écrivez un code qui demande une valeur ‘n’ à un utilisateur et calcule la somme des valeurs de 1 à n et
 -- ensuite affiche le résultat. Remarquez, si une constante ‘s’ contient une chaine de caractères
 -- représentant un ‘Int’, il est possible de transformer cette chaine en Int en utilisant : ( read s ) :: Int
